@@ -1,4 +1,4 @@
-<mxfile modified="2022-08-20T02:19:32.688Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tkB-mBUlqmcomKmsmpAf" version="20.2.5" type="github">
+<mxfile modified="2022-08-20T02:30:39.997Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OlYgXfjwTdr3k7jolEFV" version="20.2.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1579" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-8" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="96.5" y="1042.38" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;System1: Customer, Account and&amp;nbsp; Transaction data&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;System2: Credit Account data&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;System1: Customer, Account and&amp;nbsp; Transaction data&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;System2: Credit Card Account data&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="146" y="688.38" width="449" height="57" as="geometry" />
         </mxCell>
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="Due to time constraint, &lt;br&gt;&lt;ul&gt;&lt;li&gt;These 2 steps are simplified in SQL coding.&lt;/li&gt;&lt;li&gt;No ETL is designed&lt;/li&gt;&lt;li&gt;No Data Modelling is performed&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
